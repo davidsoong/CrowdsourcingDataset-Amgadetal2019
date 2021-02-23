@@ -4,3 +4,15 @@ images/
 masks/
 wsis/
 annotations/
+.idea/
+.*.swp
+*.tif
+*.png
+*.svg
+*.mat
+*.npy
+*.npz
+*.pyc
+*-checkpoint.ipynb
+.ipynb_checkpoints
+core.*
